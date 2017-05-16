@@ -1,9 +1,11 @@
 /target
 /local
+/out
+/build
 
 # Eclipse, Netbeans and IntelliJ files
-/.*
-!.gitignore
+#/.*
+#!.gitignore
 /nbproject
 /*.ipr
 /*.iws
